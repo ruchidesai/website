@@ -1,0 +1,8 @@
+.imgBox  { 
+    width: 225px; height: 225px; 
+    background-image: url('img/star.jpg');
+}
+.imgText { 
+    text-align: center; 
+    margin: 0; padding: 25px 0 0 0;
+}
